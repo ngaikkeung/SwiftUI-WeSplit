@@ -14,6 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6C0A648B27F9B25400A04F9A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6CF8F45D27F8953E008243A8 /* WeSpliit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeSpliit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CF8F46027F8953E008243A8 /* WeSpliitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeSpliitApp.swift; sourceTree = "<group>"; };
 		6CF8F46227F8953E008243A8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -35,6 +36,7 @@
 		6CF8F45427F8953E008243A8 = {
 			isa = PBXGroup;
 			children = (
+				6C0A648B27F9B25400A04F9A /* README.md */,
 				6CF8F45F27F8953E008243A8 /* WeSpliit */,
 				6CF8F45E27F8953E008243A8 /* Products */,
 			);
