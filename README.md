@@ -7,3 +7,10 @@ When we have a great gathering with friends, it is annoying to calculate the amo
 WeSplit can help to sum up the total amount and split based on the number of people. 
 
 ## Screenshots
+![image](https://github.com/ngaikkeung/SwiftUI-WeSplit/blob/main/screenshot/main.png?raw=true)
+
+![image](https://github.com/ngaikkeung/SwiftUI-WeSplit/blob/main/screenshot/cost_edit.png?raw=true)
+
+![image](https://github.com/ngaikkeung/SwiftUI-WeSplit/blob/main/screenshot/people_select.png?raw=true)
+
+![image](https://github.com/ngaikkeung/SwiftUI-WeSplit/blob/main/screenshot/result.png?raw=true)
