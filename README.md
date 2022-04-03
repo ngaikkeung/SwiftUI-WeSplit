@@ -16,3 +16,6 @@ WeSplit can help to sum up the total amount and split based on the number of peo
 ![image](https://github.com/ngaikkeung/SwiftUI-WeSplit/blob/main/screenshot/percentage_select.png?raw=true)
 
 ![image](https://github.com/ngaikkeung/SwiftUI-WeSplit/blob/main/screenshot/result.png?raw=true)
+
+## Study Resource
+[Hacking with Swift](https://www.hackingwithswift.com)
